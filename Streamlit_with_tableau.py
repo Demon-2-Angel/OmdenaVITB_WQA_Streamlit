@@ -1,6 +1,5 @@
 import streamlit as st
 import streamlit.components.v1 as components 
-import graphviz
 import datetime
 import pandas as pd
 from PIL import Image
