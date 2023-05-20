@@ -6,6 +6,7 @@ I have deployed this project in the main website of this project, you can see th
 # Integration of Tableau-Dashboard in Streamlit
 All examples will be static bcz Markdown only supports Images, not interactive Analysis
 {For that you can visit the WebAPP}
+<a href="https://public.tableau.com/app/profile/aniruddha.kumar">Visit My Tableau Profile</a>
 
 ## Drinking Water Quality Analysis
 <img src="images/Drinking Water Quality.png">
