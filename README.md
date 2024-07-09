@@ -1,4 +1,4 @@
-# OmdenaVITB_WQA_Streamlit
+# Monetoring Water Quality Using GIS System In Bhopal Region
 This is Streamlit Deployment of the Omdena Project on Water Quality Analysis of Bhopal Lake using GIS & satellite Imagery
 I have deployed this project in the main website of this project, you can see the Web-App in the website Section of this repo.
 <a href="https://demon-2-angel-omdenavitb-wqa-stre-streamlit-with-tableau-dfdikt.streamlit.app/">Visit StreamLit Web-APP</a>
